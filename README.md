@@ -1,0 +1,2 @@
+# Adv_Data_Structure_Algo_Project
+The Max2SAT is an algorithm where the variables are assigned to a true or a false value. The solution  should satisfy the highest number of pairs. The data can be of several thousands of pairs and variables. In  this project, initially the perfect solution was achieved with brute force and after that an efficient way was  used to do with the fast method, used Java programming and NetBeans IDE for the project.
